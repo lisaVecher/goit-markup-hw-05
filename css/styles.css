@@ -638,6 +638,11 @@ img {
 
 /*STYLE FOOTER*/
 
+.subscribe-container {
+  display: flex;
+  gap: 16px;
+}
+
 .subscribe-form-txt {
   font-weight: 500;
   letter-spacing: 0.02em;
@@ -701,8 +706,8 @@ img {
   justify-content: center;
   align-items: center;
 
-  opacity: 1;
-  pointer-events: auto;
+  opacity: 0;
+  pointer-events: none;
 }
 
 .modal-window.is-open {
