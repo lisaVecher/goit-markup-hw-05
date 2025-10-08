@@ -862,6 +862,11 @@ img {
   fill: #4d5ae5;
 }
 
+.modal-input:focus,
+.modal-input:active {
+  border-color: #4D5AE5;
+}
+
 .modal-form-textarea {
   margin-bottom: 16px;
 }
