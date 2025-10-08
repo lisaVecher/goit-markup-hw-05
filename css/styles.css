@@ -983,7 +983,7 @@ img {
 }
 
 
-.original-checkbox:checked+span {
+.original-checkbox:checked .span {
   background-color: #404bbf;
   border: none;
   fill: #F4F4FD;
