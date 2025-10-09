@@ -951,8 +951,6 @@ img {
 
 .input-label-checkbox {
   cursor: pointer;
-  display: flex;
-  align-items: center;
   gap: 8px;
   margin-bottom: 24px;
   font-size: 12px;
