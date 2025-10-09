@@ -961,11 +961,6 @@ img {
   color: #8e8f99;
 }
 
-.original-checkbox {
-  position: absolute;
-  clip-path: inset(50%);
-}
-
 .my-checkbox {
   border-radius: 2px;
   border: 1px solid rgba(46, 47, 66, 0.4);
